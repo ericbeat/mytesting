@@ -1,0 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC'); */
+
+/* @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css); */
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+/* @import url(https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css); */
+/* @import url(https://fonts.googleapis.com/earlyaccess/cwtexming.css); */
+body{
+  /* font-family: 'Noto Sans TC', sans-serif; */
+  /* font-family: 'cwTeXKai', serif; */
+  font-family: 'cwTeXYen', sans-serif;
+  /* font-family: 'cwTeXFangSong',serif; */
+  /* font-family: 'cwTeXMing',serif; */
+  font-size: 1em;
+  font-weight: 100;
+  line-height: 2;
+  letter-spacing: .1em;
+}
+h1{
+  font-weight: 800;
+}
